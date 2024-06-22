@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("오픈소스SW입문 2024-1 \n 소프트웨어학과 202220777 나현흠")
+            Text("오픈소스SW입문 2024-1 \n소프트웨어학과 202220777 나현흠\n실습 진행중")
         }
         .padding()
     }
